@@ -10,5 +10,10 @@
       "name": "Lukas Schönbeck",
       "role": "Developer"
     }
-  ]
+  ],
+  "autoload": {
+    "psr-4": {
+      "SCHOENBECK\\Tools\\" : "./"
+    }
+  }
 }
